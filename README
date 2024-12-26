@@ -1,0 +1,4 @@
+0.- pipenv shell
+1.- Dump "show chassis hardware clei-models" in a file with name <router>.show-chassis-hw.xml
+2.- Place the file into "hw_files" folder
+3.- run the python script "python chassis_to_excel.py"
